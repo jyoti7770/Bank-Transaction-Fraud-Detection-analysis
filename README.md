@@ -36,7 +36,7 @@ The dataset contains bank transaction records with details such as:
 - Power BI → Interactive dashboards and reports.
 
 ## DASHBOARD
-![image](https://github.com/jyoti7770/Bank-Transaction-Fraud-Detection-analysis/blob/main/Power%20Bi%20Dashboard.zip)
+![image]()
 
 ## KEY ANALYSIS
 1. High-Value Transactions by Transaction type → help to find which transaction type involved more .
